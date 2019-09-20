@@ -6,7 +6,7 @@
   "events": [
     {
       "slack.message.channels": {
-        "filename": "functions/events/slack/message/channels.js",
+        "filename": "events/slack/message/channels.js",
         "subtype": null
       }
     }
